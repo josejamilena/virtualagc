@@ -143,6 +143,7 @@ yaAGC/regex.h -text
 yaAGC/rfopen.c -text
 yaAGC/symbol_table.c -text
 yaAGC/yaAGC.h -text
+yaAGS/Backtrace.c -text
 yaAGS/DebuggerHookAGS.c -text
 yaAGS/Makefile -text
 yaAGS/Makefile.Win32 -text
@@ -151,6 +152,8 @@ yaAGS/aea_engine.c -text
 yaAGS/aea_engine.h -text
 yaAGS/aea_engine_init.c -text
 yaAGS/mainAGS.c -text
+yaAGS/nbfgets.c -text
+yaAGS/symbol_table.c -text
 yaAGS/yaAEA.h -text
 yaCode/Artemis072/ASSEMBLY_AND_OPERATION_INFORMATION.s -text
 yaCode/Artemis072/Artemis072.binsource -text
