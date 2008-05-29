@@ -125,9 +125,14 @@ yaAGC/Makefile.Win32 -text
 yaAGC/NullAPI.c -text
 yaAGC/SocketAPI.c -text
 yaAGC/WinAGC.c -text
+yaAGC/agc_debug.h -text
 yaAGC/agc_engine.c -text
 yaAGC/agc_engine.h -text
 yaAGC/agc_engine_init.c -text
+yaAGC/agc_gdbmi.c -text
+yaAGC/agc_gdbmi.h -text
+yaAGC/agc_help.c -text
+yaAGC/agc_help.h -text
 yaAGC/agc_utilities.c -text
 yaAGC/crt.s -text
 yaAGC/main.c -text
