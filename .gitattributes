@@ -840,6 +840,9 @@ yaLEMAP/SampleCodeAGS.binsource -text
 yaLEMAP/SampleCodeAGS.s -text
 yaLEMAP/binLEMAP.c -text
 yaLEMAP/yaLEMAP.c -text
+yaScripts/CodeBlocks/bin/agc-gdb.bat -text
+yaScripts/CodeBlocks/bin/agc-lnk.bat -text
+yaScripts/CodeBlocks/bin/agc-yul.bat -text
 yaScripts/SimArtemis072 -text
 yaScripts/SimArtemis072.bat -text
 yaScripts/SimArtemis072.xeq -text
