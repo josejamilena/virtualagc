@@ -902,6 +902,10 @@ yaSyntax/CodeBlocks/lexers/lexer_agc.sample -text
 yaSyntax/CodeBlocks/lexers/lexer_agc.xml -text
 yaSyntax/Eclipse/agc.ent.hrc -text
 yaSyntax/Eclipse/rare/agc.hrc -text
+yaSyntax/EnableSyntaxAGC.odt -text
+yaSyntax/Kate/agc.xml -text
+yaSyntax/TextPad/agc.syn -text
+yaSyntax/Vim/agc.vim -text
 yaTelemetry/AUTHORS -text
 yaTelemetry/COPYING -text
 yaTelemetry/ChangeLog -text
