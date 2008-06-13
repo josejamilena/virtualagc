@@ -898,6 +898,10 @@ yaSimulators/LM_Simulator/modules/AGC_IMU.tcl -text
 yaSimulators/LM_Simulator/modules/AGC_Outputs.tcl -text
 yaSimulators/LM_Simulator/modules/AGC_Simulation_Monitor_Control.tcl -text
 yaSimulators/LM_Simulator/modules/AGC_System_Inputs.tcl -text
+yaSyntax/CodeBlocks/lexers/lexer_agc.sample -text
+yaSyntax/CodeBlocks/lexers/lexer_agc.xml -text
+yaSyntax/Eclipse/agc.ent.hrc -text
+yaSyntax/Eclipse/rare/agc.hrc -text
 yaTelemetry/AUTHORS -text
 yaTelemetry/COPYING -text
 yaTelemetry/ChangeLog -text
