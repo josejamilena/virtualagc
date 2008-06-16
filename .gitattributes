@@ -570,6 +570,7 @@ yaDEDA/src/.deps/hCreateMainWindow.Po -text
 yaDEDA/src/.deps/interface.Po -text
 yaDEDA/src/.deps/main.Po -text
 yaDEDA/src/.deps/support.Po -text
+yaDEDA/src/Backtrace.c -text
 yaDEDA/src/Makefile -text
 yaDEDA/src/Makefile.Win32 -text
 yaDEDA/src/Makefile.am -text
@@ -813,6 +814,7 @@ yaDSKY/src/.deps/main.Po -text
 yaDSKY/src/.deps/main.pp -text
 yaDSKY/src/.deps/support.P -text
 yaDSKY/src/.deps/support.Po -text
+yaDSKY/src/Backtrace.c -text
 yaDSKY/src/CM.ini -text
 yaDSKY/src/CM0.ini -text
 yaDSKY/src/LM.ini -text
