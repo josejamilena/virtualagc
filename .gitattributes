@@ -3,7 +3,6 @@
 /COPYING -text
 /Makefile -text
 /Makefile.Win32 -text
-/Makefile.yaAGC -text
 /configure -text
 yaACA/Makefile -text
 yaACA/yaACA.c -text
@@ -158,7 +157,6 @@ yaAGS/yaAEA.h -text
 yaCode/Artemis072/ASSEMBLY_AND_OPERATION_INFORMATION.s -text
 yaCode/Artemis072/Artemis072.binsource -text
 yaCode/Artemis072/MAIN.s -text
-yaCode/Artemis072/MAIN.s.symtab -text
 yaCode/Artemis072/Makefile -text
 yaCode/Colossus249/AGC_BLOCK_TWO_SELF-CHECK.s -text
 yaCode/Colossus249/ALARM_AND_ABORT.s -text
