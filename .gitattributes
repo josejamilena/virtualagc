@@ -249,6 +249,17 @@ yaCode/Colossus249/WAITLIST.s -text
 yaCode/FP6/FP6.s -text
 yaCode/FP8/FP8.binsource -text
 yaCode/FP8/FP8.s -text
+yaCode/Lemon/CLOCK_CTRL.s -text
+yaCode/Lemon/CPU_REGISTERS.s -text
+yaCode/Lemon/DISPLAY_CTRL.s -text
+yaCode/Lemon/GLOBAL_VARS.s -text
+yaCode/Lemon/IO_REGISTERS.s -text
+yaCode/Lemon/KB1_ISR.s -text
+yaCode/Lemon/LEMON.s -text
+yaCode/Lemon/MAIN.s -text
+yaCode/Lemon/TIMER4_ISR.s -text
+yaCode/Lemon/TIMER_REGISTERS.s -text
+yaCode/Lemon/VECTOR_TABLE.s -text
 yaCode/Luminary131/AGC_BLOCK_TWO_SELF_CHECK.s -text
 yaCode/Luminary131/AGS_INITIALIZATION.s -text
 yaCode/Luminary131/ALARM_AND_ABORT.s -text
