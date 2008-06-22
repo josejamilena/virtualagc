@@ -4,6 +4,7 @@
 /Makefile -text
 /Makefile.Win32 -text
 /configure -text
+doc/images/CodeBlocks.png -text
 yaACA/Makefile -text
 yaACA/yaACA.c -text
 yaAGC/Backtrace.c -text
