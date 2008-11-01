@@ -127,6 +127,8 @@ yaAGC/NullAPI.c -text
 yaAGC/SocketAPI.c -text
 yaAGC/WinAGC.c -text
 yaAGC/agc_debug.h -text
+yaAGC/agc_disassembler.c -text
+yaAGC/agc_disassembler.h -text
 yaAGC/agc_engine.c -text
 yaAGC/agc_engine.h -text
 yaAGC/agc_engine_init.c -text
