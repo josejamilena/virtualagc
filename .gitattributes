@@ -142,6 +142,7 @@ yaAGC/agc_help.c -text
 yaAGC/agc_help.h -text
 yaAGC/agc_simulator.c -text
 yaAGC/agc_simulator.h -text
+yaAGC/agc_symtab.c -text
 yaAGC/agc_utilities.c -text
 yaAGC/crt.s -text
 yaAGC/main.c -text
@@ -150,7 +151,6 @@ yaAGC/random.c -text
 yaAGC/regex.c -text
 yaAGC/regex.h -text
 yaAGC/rfopen.c -text
-yaAGC/symbol_table.c -text
 yaAGC/yaAGC.h -text
 yaAGS/Backtrace.c -text
 yaAGS/DebuggerHookAGS.c -text
