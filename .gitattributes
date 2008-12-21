@@ -143,6 +143,7 @@ yaAGC/agc_help.h -text
 yaAGC/agc_simulator.c -text
 yaAGC/agc_simulator.h -text
 yaAGC/agc_symtab.c -text
+yaAGC/agc_symtab.h -text
 yaAGC/agc_utilities.c -text
 yaAGC/crt.s -text
 yaAGC/main.c -text
