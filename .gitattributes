@@ -3,6 +3,7 @@
 /COPYING -text
 /Makefile -text
 /Makefile.Win32 -text
+/Makefile.yaAGC -text
 /configure -text
 doc/images/CodeBlocks.png -text
 doc/images/DSKY.png -text
