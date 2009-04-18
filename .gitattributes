@@ -158,6 +158,8 @@ yaAGS/Backtrace.c -text
 yaAGS/DebuggerHookAGS.c -text
 yaAGS/Makefile -text
 yaAGS/Makefile.Win32 -text
+yaAGS/ParseSocket -text
+yaAGS/ParseSocket.c -text
 yaAGS/SocketAPI_AGS.c -text
 yaAGS/aea_engine.c -text
 yaAGS/aea_engine.h -text
