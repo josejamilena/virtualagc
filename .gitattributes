@@ -9,6 +9,14 @@ doc/images/CodeBlocks.png -text
 doc/images/DSKY.png -text
 yaACA/Makefile -text
 yaACA/yaACA.c -text
+yaACA2/ApolloPatch2.png -text
+yaACA2/Makefile -text
+yaACA2/yaACA2.cpp -text
+yaACA2/yaACA2.h -text
+yaACA2/yaACA2.wxg -text
+yaACA3/Makefile -text
+yaACA3/SDL_win32_main.c -text
+yaACA3/yaACA3.c -text
 yaAGC/Backtrace.c -text
 yaAGC/DebugModeScripts/AD.PAT -text
 yaAGC/DebugModeScripts/AD.PAT.DEL -text
