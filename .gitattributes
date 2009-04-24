@@ -555,6 +555,7 @@ yaDEDA/AUTHORS -text
 yaDEDA/COPYING -text
 yaDEDA/ChangeLog -text
 yaDEDA/INSTALL -text
+yaDEDA/Makefile.all-archs -text
 yaDEDA/Makefile.am -text
 yaDEDA/NEWS -text
 yaDEDA/README -text
