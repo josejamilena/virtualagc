@@ -555,7 +555,6 @@ yaDEDA/AUTHORS -text
 yaDEDA/COPYING -text
 yaDEDA/ChangeLog -text
 yaDEDA/INSTALL -text
-yaDEDA/Makefile.all-archs -text
 yaDEDA/Makefile.am -text
 yaDEDA/NEWS -text
 yaDEDA/README -text
@@ -701,6 +700,7 @@ yaDEDA/po/POTFILES -text
 yaDEDA/po/POTFILES.in -text
 yaDEDA/src/Backtrace.c -text
 yaDEDA/src/Makefile.Win32 -text
+yaDEDA/src/Makefile.all-archs -text
 yaDEDA/src/Makefile.am -text
 yaDEDA/src/callbacks.c -text
 yaDEDA/src/callbacks.h -text
