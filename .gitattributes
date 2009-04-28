@@ -4,6 +4,7 @@ Artemis072/ASSEMBLY_AND_OPERATION_INFORMATION.s -text
 Artemis072/Artemis072.binsource -text
 Artemis072/MAIN.s -text
 Artemis072/Makefile -text
+/BuildBox.sh -text
 /COPYING -text
 Colossus249/AGC_BLOCK_TWO_SELF-CHECK.s -text
 Colossus249/ALARM_AND_ABORT.s -text
@@ -1015,6 +1016,7 @@ yaDSKY/src/CM0.ini -text
 yaDSKY/src/LM.ini -text
 yaDSKY/src/LM1.ini -text
 yaDSKY/src/Makefile.Win32 -text
+yaDSKY/src/Makefile.all-archs -text
 yaDSKY/src/Makefile.am -text
 yaDSKY/src/callbacks.c -text
 yaDSKY/src/callbacks.h -text
