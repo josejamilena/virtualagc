@@ -95,6 +95,7 @@ Colossus249/Template.s -text
 Colossus249/UPDATE_PROGRAM.s -text
 Colossus249/WAITLIST.s -text
 Comanche055/ALARM_AND_ABORT.s -text
+Comanche055/ANGLFIND.s -text
 Comanche055/ASSEMBLY_AND_OPERATION_INFORMATION.s -text
 Comanche055/CONTRACT_AND_APPROVALS.s -text
 Comanche055/CSM_GEOMETRY.s -text
@@ -110,6 +111,7 @@ Comanche055/KALCMANU_STEERING.s -text
 Comanche055/KEYRUPT_UPRUPT.s -text
 Comanche055/MAIN.s -text
 Comanche055/PINBALL_GAME_BUTTONS_AND_LIGHTS.s -text
+Comanche055/R60_62.s -text
 Comanche055/RESTARTS_ROUTINE.s -text
 Comanche055/RT8_OP_CODES.s -text
 Comanche055/SERVICE_ROUTINES.s -text
