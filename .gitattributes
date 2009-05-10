@@ -110,6 +110,7 @@ Comanche055/INTERPRETER.s -text
 Comanche055/KALCMANU_STEERING.s -text
 Comanche055/KEYRUPT_UPRUPT.s -text
 Comanche055/MAIN.s -text
+Comanche055/P32-P33_P72-P73.s -text
 Comanche055/P76.s -text
 Comanche055/PINBALL_GAME_BUTTONS_AND_LIGHTS.s -text
 Comanche055/R60_62.s -text
