@@ -101,6 +101,7 @@ Comanche055/CONTRACT_AND_APPROVALS.s -text
 Comanche055/CSM_GEOMETRY.s -text
 Comanche055/DISPLAY_INTERFACE_ROUTINES.s -text
 Comanche055/DOWN-TELEMETRY_PROGRAM.s -text
+Comanche055/DOWNLINK_LISTS.s -text
 Comanche055/ERASABLE_ASSIGNMENTS.s -text
 Comanche055/GIMBAL_LOCK_AVOIDANCE.s -text
 Comanche055/GROUND_TRACKING_DETERMINATION_PROGRAM.s -text
@@ -108,6 +109,7 @@ Comanche055/IMU_CALIBRATION_AND_ALIGNMENT.s -text
 Comanche055/IMU_COMPENSATION_PACKAGE.s -text
 Comanche055/INTER-BANK_COMMUNICATION.s -text
 Comanche055/INTERPRETER.s -text
+Comanche055/INTERRUPT_LEAD_INS.s -text
 Comanche055/KALCMANU_STEERING.s -text
 Comanche055/KEYRUPT_UPRUPT.s -text
 Comanche055/MAIN.s -text
@@ -123,6 +125,7 @@ Comanche055/RT8_OP_CODES.s -text
 Comanche055/SERVICE_ROUTINES.s -text
 Comanche055/STABLE_ORBIT.s -text
 Comanche055/SYSTEM_TEST_STANDARD_LEAD_INS.s -text
+Comanche055/T4RUPT_PROGRAM.s -text
 Comanche055/TAGS_FOR_RELATIVE_SETLOC.s -text
 Comanche055/UPDATE_PROGRAM.s -text
 Contributed/DebugScripts/CodeBlocks/README.txt -text
