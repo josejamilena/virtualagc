@@ -102,6 +102,7 @@ Comanche055/CSM_GEOMETRY.s -text
 Comanche055/DISPLAY_INTERFACE_ROUTINES.s -text
 Comanche055/DOWN-TELEMETRY_PROGRAM.s -text
 Comanche055/DOWNLINK_LISTS.s -text
+Comanche055/ENTRY_LEXICON.s -text
 Comanche055/ERASABLE_ASSIGNMENTS.s -text
 Comanche055/GIMBAL_LOCK_AVOIDANCE.s -text
 Comanche055/GROUND_TRACKING_DETERMINATION_PROGRAM.s -text
@@ -113,11 +114,14 @@ Comanche055/INTERPRETER.s -text
 Comanche055/INTERRUPT_LEAD_INS.s -text
 Comanche055/KALCMANU_STEERING.s -text
 Comanche055/KEYRUPT_UPRUPT.s -text
+Comanche055/LUNAR_AND_SOLAR_EPHEMERIDES_SUBROUTINES.s -text
 Comanche055/MAIN.s -text
 Comanche055/P20-P25.s -text
 Comanche055/P30-P37.s -text
 Comanche055/P32-P33_P72-P73.s -text
 Comanche055/P40-P47.s -text
+Comanche055/P51-P53.s -text
+Comanche055/P61-P67.s -text
 Comanche055/P76.s -text
 Comanche055/PINBALL_GAME_BUTTONS_AND_LIGHTS.s -text
 Comanche055/R30.s -text
@@ -126,6 +130,7 @@ Comanche055/R60_62.s -text
 Comanche055/RESTARTS_ROUTINE.s -text
 Comanche055/RT8_OP_CODES.s -text
 Comanche055/S-BAND_ANTENNA_FOR_CM.s -text
+Comanche055/SERVICER207.s -text
 Comanche055/SERVICE_ROUTINES.s -text
 Comanche055/STABLE_ORBIT.s -text
 Comanche055/SYSTEM_TEST_STANDARD_LEAD_INS.s -text
