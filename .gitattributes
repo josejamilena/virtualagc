@@ -97,6 +97,7 @@ Colossus249/WAITLIST.s -text
 Comanche055/ALARM_AND_ABORT.s -text
 Comanche055/ANGLFIND.s -text
 Comanche055/ASSEMBLY_AND_OPERATION_INFORMATION.s -text
+Comanche055/CM_BODY_ATTITUDE.s -text
 Comanche055/CONTRACT_AND_APPROVALS.s -text
 Comanche055/CSM_GEOMETRY.s -text
 Comanche055/DISPLAY_INTERFACE_ROUTINES.s -text
