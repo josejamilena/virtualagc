@@ -97,6 +97,7 @@ Colossus249/WAITLIST.s -text
 Comanche055/ALARM_AND_ABORT.s -text
 Comanche055/ANGLFIND.s -text
 Comanche055/ASSEMBLY_AND_OPERATION_INFORMATION.s -text
+Comanche055/AUTOMATIC_MANEUVERS.s -text
 Comanche055/CM_BODY_ATTITUDE.s -text
 Comanche055/CONTRACT_AND_APPROVALS.s -text
 Comanche055/CSM_GEOMETRY.s -text
@@ -117,6 +118,7 @@ Comanche055/KALCMANU_STEERING.s -text
 Comanche055/KEYRUPT_UPRUPT.s -text
 Comanche055/LUNAR_AND_SOLAR_EPHEMERIDES_SUBROUTINES.s -text
 Comanche055/MAIN.s -text
+Comanche055/MYSUBS.s -text
 Comanche055/P20-P25.s -text
 Comanche055/P30-P37.s -text
 Comanche055/P32-P33_P72-P73.s -text
@@ -128,6 +130,7 @@ Comanche055/PINBALL_GAME_BUTTONS_AND_LIGHTS.s -text
 Comanche055/R30.s -text
 Comanche055/R31.s -text
 Comanche055/R60_62.s -text
+Comanche055/RCS-CSM_DIGITAL_AUTOPILOT.s -text
 Comanche055/REENTRY_CONTROL.s -text
 Comanche055/RESTARTS_ROUTINE.s -text
 Comanche055/RT8_OP_CODES.s -text
@@ -138,7 +141,12 @@ Comanche055/STABLE_ORBIT.s -text
 Comanche055/SYSTEM_TEST_STANDARD_LEAD_INS.s -text
 Comanche055/T4RUPT_PROGRAM.s -text
 Comanche055/TAGS_FOR_RELATIVE_SETLOC.s -text
+Comanche055/TVCDAPS.s -text
 Comanche055/TVCEXECUTIVE.s -text
+Comanche055/TVCMASSPROP.s -text
+Comanche055/TVCRESTARTS.s -text
+Comanche055/TVCROLLDAP.s -text
+Comanche055/TVCSTROKETEST.s -text
 Comanche055/UPDATE_PROGRAM.s -text
 Contributed/DebugScripts/CodeBlocks/README.txt -text
 Contributed/DebugScripts/CodeBlocks/bin/agc-gdb -text
