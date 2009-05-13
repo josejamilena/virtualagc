@@ -138,6 +138,7 @@ Comanche055/STABLE_ORBIT.s -text
 Comanche055/SYSTEM_TEST_STANDARD_LEAD_INS.s -text
 Comanche055/T4RUPT_PROGRAM.s -text
 Comanche055/TAGS_FOR_RELATIVE_SETLOC.s -text
+Comanche055/TVCEXECUTIVE.s -text
 Comanche055/UPDATE_PROGRAM.s -text
 Contributed/DebugScripts/CodeBlocks/README.txt -text
 Contributed/DebugScripts/CodeBlocks/bin/agc-gdb -text
