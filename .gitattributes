@@ -107,12 +107,14 @@ Comanche055/DOWN-TELEMETRY_PROGRAM.s -text
 Comanche055/DOWNLINK_LISTS.s -text
 Comanche055/ENTRY_LEXICON.s -text
 Comanche055/ERASABLE_ASSIGNMENTS.s -text
+Comanche055/EXECUTIVE.s -text
 Comanche055/FIXED_FIXED_CONSTANT_POOL.s -text
 Comanche055/GIMBAL_LOCK_AVOIDANCE.s -text
 Comanche055/GROUND_TRACKING_DETERMINATION_PROGRAM.s -text
 Comanche055/IMU_CALIBRATION_AND_ALIGNMENT.s -text
 Comanche055/IMU_COMPENSATION_PACKAGE.s -text
 Comanche055/IMU_MODE_SWITCHING_ROUTINES.s -text
+Comanche055/INFLIGHT_ALIGNMENT_ROUTINES.s -text
 Comanche055/INTER-BANK_COMMUNICATION.s -text
 Comanche055/INTERPRETER.s -text
 Comanche055/INTERPRETIVE_CONSTANTS.s -text
@@ -120,10 +122,13 @@ Comanche055/INTERRUPT_LEAD_INS.s -text
 Comanche055/JET_SELECTION_LOGIC.s -text
 Comanche055/KALCMANU_STEERING.s -text
 Comanche055/KEYRUPT_UPRUPT.s -text
+Comanche055/LATITUDE_LONGITUDE_SUBROUTINES.s -text
 Comanche055/LUNAR_AND_SOLAR_EPHEMERIDES_SUBROUTINES.s -text
 Comanche055/LUNAR_LANDMARK_SELECTION_FOR_CM.s -text
 Comanche055/MAIN.s -text
+Comanche055/MEASUREMENT_INCORPORATION.s -text
 Comanche055/MYSUBS.s -text
+Comanche055/ORBITAL_INTEGRATION.s -text
 Comanche055/P11.s -text
 Comanche055/P20-P25.s -text
 Comanche055/P30-P37.s -text
@@ -135,6 +140,7 @@ Comanche055/P51-P53.s -text
 Comanche055/P61-P67.s -text
 Comanche055/P76.s -text
 Comanche055/PINBALL_GAME_BUTTONS_AND_LIGHTS.s -text
+Comanche055/PLANETARY_INERTIAL_ORIENTATION.s -text
 Comanche055/R30.s -text
 Comanche055/R31.s -text
 Comanche055/R60_62.s -text
@@ -159,6 +165,7 @@ Comanche055/TVCRESTARTS.s -text
 Comanche055/TVCROLLDAP.s -text
 Comanche055/TVCSTROKETEST.s -text
 Comanche055/UPDATE_PROGRAM.s -text
+Comanche055/WAITLIST.s -text
 Contributed/DebugScripts/CodeBlocks/README.txt -text
 Contributed/DebugScripts/CodeBlocks/bin/agc-gdb -text
 Contributed/DebugScripts/CodeBlocks/bin/agc-gdb.bat -text
@@ -218,6 +225,7 @@ FP8/FP8.binsource -text
 FP8/FP8.s -text
 /LICENSE.txt -text
 Luminary099/CONTRACT_AND_APPROVALS.s -text
+Luminary099/HeaderTemplate.s -text
 Luminary099/MAIN.s -text
 Luminary131/AGC_BLOCK_TWO_SELF_CHECK.s -text
 Luminary131/AGS_INITIALIZATION.s -text
