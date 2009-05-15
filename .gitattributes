@@ -227,6 +227,7 @@ FP8/FP8.s -text
 /LICENSE.txt -text
 Luminary099/CONTRACT_AND_APPROVALS.s -text
 Luminary099/HeaderTemplate.s -text
+Luminary099/INTERRUPT_LEAD_INS.s -text
 Luminary099/MAIN.s -text
 Luminary131/AGC_BLOCK_TWO_SELF_CHECK.s -text
 Luminary131/AGS_INITIALIZATION.s -text
