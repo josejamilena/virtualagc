@@ -228,6 +228,7 @@ FP8/FP8.binsource -text
 FP8/FP8.s -text
 /LICENSE.txt -text
 Luminary099/CONTRACT_AND_APPROVALS.s -text
+Luminary099/ERASABLE_ASSIGNMENTS.s -text
 Luminary099/FLAGWORD_ASSIGNMENTS.s -text
 Luminary099/HeaderTemplate.s -text
 Luminary099/INPUT_OUTPUT_CHANNEL_BIT_DESCRIPTIONS.s -text
