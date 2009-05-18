@@ -249,6 +249,7 @@ Luminary099/KALCMANU_STEERING.s -text
 Luminary099/LEM_GEOMETRY.s -text
 Luminary099/MAIN.s -text
 Luminary099/P30_P37.s -text
+Luminary099/P32-P35_P72-P75.s -text
 Luminary099/R60_62.s -text
 Luminary099/R63.s -text
 Luminary099/RADAR_LEADIN_ROUTINES.s -text
