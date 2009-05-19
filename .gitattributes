@@ -234,6 +234,7 @@ FP8/FP8.s -text
 /LICENSE.txt -text
 Luminary099/ASSEMBLY_AND_OPERATION_INFORMATION.s -text
 Luminary099/ATTITUDE_MANEUVER_ROUTINE.s -text
+Luminary099/BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.s -text
 Luminary099/CONTRACT_AND_APPROVALS.s -text
 Luminary099/CONTROLLED_CONSTANTS.s -text
 Luminary099/ERASABLE_ASSIGNMENTS.s -text
@@ -252,10 +253,16 @@ Luminary099/LEM_GEOMETRY.s -text
 Luminary099/MAIN.s -text
 Luminary099/P30_P37.s -text
 Luminary099/P32-P35_P72-P75.s -text
+Luminary099/P34-35_P74-75.s -text
+Luminary099/P40-P47.s -text
+Luminary099/P76.s -text
+Luminary099/R30.s -text
+Luminary099/R31.s -text
 Luminary099/R60_62.s -text
 Luminary099/R63.s -text
 Luminary099/RADAR_LEADIN_ROUTINES.s -text
 Luminary099/S-BAND_ANTENNA_FOR_LM.s -text
+Luminary099/STABLE_ORBIT.s -text
 Luminary099/SYSTEM_TEST_STANDARD_LEAD_INS.s -text
 Luminary099/TAGS_FOR_RELATIVE_SETLOC.s -text
 Luminary131/AGC_BLOCK_TWO_SELF_CHECK.s -text
