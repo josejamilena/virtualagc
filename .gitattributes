@@ -104,6 +104,7 @@ Comanche055/CM_ENTRY_DIGITAL_AUTOPILOT.s -text
 Comanche055/CONIC_SUBROUTINES.s -text
 Comanche055/CONTRACT_AND_APPROVALS.s -text
 Comanche055/CSM_GEOMETRY.s -text
+Comanche055/Comanche055.binsource -text
 Comanche055/DISPLAY_INTERFACE_ROUTINES.s -text
 Comanche055/DOWN-TELEMETRY_PROGRAM.s -text
 Comanche055/DOWNLINK_LISTS.s -text
