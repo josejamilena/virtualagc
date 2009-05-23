@@ -477,6 +477,7 @@ Validation/VariablesAndConstants.s -text
 VirtualAGC/ApolloPatch2-transparent.png -text
 VirtualAGC/ApolloPatch2.jpg -text
 VirtualAGC/ApolloPatch2.png -text
+VirtualAGC/CopyApolloSource.sh -text
 VirtualAGC/Makefile -text
 VirtualAGC/VirtualAGC-linux/VirtualAGC-linux.mpi -text
 VirtualAGC/VirtualAGC-win32/ApolloPatch2.ico -text
