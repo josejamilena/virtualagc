@@ -240,6 +240,7 @@ FP8/FP8.binsource -text
 FP8/FP8.s -text
 /LICENSE.txt -text
 Luminary099/AGS_INITIALIZATION.s -text
+Luminary099/ASCENT_GUIDANCE.s -text
 Luminary099/ASSEMBLY_AND_OPERATION_INFORMATION.s -text
 Luminary099/ATTITUDE_MANEUVER_ROUTINE.s -text
 Luminary099/BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.s -text
@@ -262,10 +263,12 @@ Luminary099/LAMBERT_AIMPOINT_GUIDANCE.s -text
 Luminary099/LEM_GEOMETRY.s -text
 Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.s -text
 Luminary099/MAIN.s -text
+Luminary099/P12.s -text
 Luminary099/P30_P37.s -text
 Luminary099/P32-P35_P72-P75.s -text
 Luminary099/P34-35_P74-75.s -text
 Luminary099/P40-P47.s -text
+Luminary099/P70-P71.s -text
 Luminary099/P76.s -text
 Luminary099/R30.s -text
 Luminary099/R31.s -text
