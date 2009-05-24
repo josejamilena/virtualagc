@@ -260,6 +260,7 @@ Luminary099/INTERRUPT_LEAD_INS.s -text
 Luminary099/KALCMANU_STEERING.s -text
 Luminary099/LAMBERT_AIMPOINT_GUIDANCE.s -text
 Luminary099/LEM_GEOMETRY.s -text
+Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.s -text
 Luminary099/MAIN.s -text
 Luminary099/P30_P37.s -text
 Luminary099/P32-P35_P72-P75.s -text
