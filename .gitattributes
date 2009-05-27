@@ -281,6 +281,7 @@ Luminary099/P40-P47.s -text
 Luminary099/P70-P71.s -text
 Luminary099/P76.s -text
 Luminary099/PINBALL_GAME_BUTTONS_AND_LIGHTS.s -text
+Luminary099/POWERED_FLIGHT_SUBROUTINES.s -text
 Luminary099/R30.s -text
 Luminary099/R31.s -text
 Luminary099/R60_62.s -text
@@ -295,6 +296,7 @@ Luminary099/T4RUPT_PROGRAM.s -text
 Luminary099/TAGS_FOR_RELATIVE_SETLOC.s -text
 Luminary099/THE_LUNAR_LANDING.s -text
 Luminary099/THROTTLE_CONTROL_ROUTINES.s -text
+Luminary099/TIME_OF_FREE_FALL.s -text
 Luminary099/WAITLIST.s -text
 Luminary131/AGC_BLOCK_TWO_SELF_CHECK.s -text
 Luminary131/AGS_INITIALIZATION.s -text
