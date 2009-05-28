@@ -239,6 +239,7 @@ FP6/FP6.s -text
 FP8/FP8.binsource -text
 FP8/FP8.s -text
 /LICENSE.txt -text
+Luminary099/AGC_BLOCK_TWO_SELF_CHECK.s -text
 Luminary099/AGS_INITIALIZATION.s -text
 Luminary099/AOSTASK_AND_AOSJOB.s -text
 Luminary099/AOTMARK.s -text
@@ -288,6 +289,7 @@ Luminary099/P34-35_P74-75.s -text
 Luminary099/P40-P47.s -text
 Luminary099/P70-P71.s -text
 Luminary099/P76.s -text
+Luminary099/PHASE_TABLE_MAINTENANCE.s -text
 Luminary099/PINBALL_GAME_BUTTONS_AND_LIGHTS.s -text
 Luminary099/PINBALL_NOUN_TABLES.s -text
 Luminary099/POWERED_FLIGHT_SUBROUTINES.s -text
@@ -298,6 +300,7 @@ Luminary099/R60_62.s -text
 Luminary099/R63.s -text
 Luminary099/RADAR_LEADIN_ROUTINES.s -text
 Luminary099/RCS_FAILURE_MONITOR.s -text
+Luminary099/RESTARTS_ROUTINE.s -text
 Luminary099/RESTART_TABLES.s -text
 Luminary099/S-BAND_ANTENNA_FOR_LM.s -text
 Luminary099/SINGLE_PRECISION_SUBROUTINES.s -text
