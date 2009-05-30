@@ -223,6 +223,15 @@ Contributed/SyntaxHighlight/Eclipse/rare/agc.hrc -text
 Contributed/SyntaxHighlight/EnableSyntaxAGC.odt -text
 Contributed/SyntaxHighlight/Kate/aea.xml -text
 Contributed/SyntaxHighlight/Kate/agc.xml -text
+Contributed/SyntaxHighlight/Prettify/COPYING -text
+Contributed/SyntaxHighlight/Prettify/README -text
+Contributed/SyntaxHighlight/Prettify/example-aea.html -text
+Contributed/SyntaxHighlight/Prettify/example-agc.html -text
+Contributed/SyntaxHighlight/Prettify/lang-aea.js -text
+Contributed/SyntaxHighlight/Prettify/lang-agc.js -text
+Contributed/SyntaxHighlight/Prettify/lang-apollo.js -text
+Contributed/SyntaxHighlight/Prettify/prettify.css -text
+Contributed/SyntaxHighlight/Prettify/prettify.js -text
 Contributed/SyntaxHighlight/TextPad/aea.syn -text
 Contributed/SyntaxHighlight/TextPad/agc.syn -text
 Contributed/SyntaxHighlight/Vim/aea.vim -text
