@@ -297,6 +297,7 @@ Luminary099/LUNAR_AND_SOLAR_EPHEMERIDES_SUBROUTINES.s -text
 Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.s -text
 Luminary099/MAIN.s -text
 Luminary099/MEASUREMENT_INCORPORATION.s -text
+Luminary099/Makefile -text
 Luminary099/ORBITAL_INTEGRATION.s -text
 Luminary099/P-AXIS_RCS_AUTOPILOT.s -text
 Luminary099/P12.s -text
