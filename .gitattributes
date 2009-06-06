@@ -295,6 +295,7 @@ Luminary099/LATITUDE_LONGITUDE_SUBROUTINES.s -text
 Luminary099/LEM_GEOMETRY.s -text
 Luminary099/LUNAR_AND_SOLAR_EPHEMERIDES_SUBROUTINES.s -text
 Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.s -text
+Luminary099/Luminary099.binsource -text
 Luminary099/MAIN.s -text
 Luminary099/MEASUREMENT_INCORPORATION.s -text
 Luminary099/Makefile -text
