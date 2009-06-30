@@ -1,4 +1,5 @@
 * text=auto !eol
+/AgcHtmlNotice.txt -text
 /Apollo32.png -text
 Artemis072/ASSEMBLY_AND_OPERATION_INFORMATION.s -text
 Artemis072/Artemis072.binsource -text
