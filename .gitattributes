@@ -2,7 +2,9 @@
 /AgcHtmlNotice.txt -text
 /Apollo32.png -text
 Artemis072/ASSEMBLY_AND_OPERATION_INFORMATION.s -text
+Artemis072/Apollo32.png -text
 Artemis072/Artemis072.binsource -text
+Artemis072/Default.style -text
 Artemis072/MAIN.s -text
 Artemis072/Makefile -text
 /BuildBox.sh -text
@@ -12,6 +14,7 @@ Colossus249/ALARM_AND_ABORT.s -text
 Colossus249/ANGLFIND.s -text
 Colossus249/ASSEMBLY_AND_OPERATION_INFORMATION.s -text
 Colossus249/AUTOMATIC_MANEUVERS.s -text
+Colossus249/Apollo32.png -text
 Colossus249/CM_BODY_ATTITUDE.s -text
 Colossus249/CM_ENTRY_DIGITAL_AUTOPILOT.s -text
 Colossus249/CONIC_SUBROUTINES.s -text
@@ -20,6 +23,7 @@ Colossus249/Colossus249.binsource -text
 Colossus249/DISPLAY_INTERFACE_ROUTINES.s -text
 Colossus249/DOWN-TELEMETRY_PROGRAM.s -text
 Colossus249/DOWNLINK_LISTS.s -text
+Colossus249/Default.style -text
 Colossus249/ENTRY_LEXICON.s -text
 Colossus249/ERASABLE_ASSIGNMENTS.s -text
 Colossus249/EXECUTIVE.s -text
@@ -100,6 +104,7 @@ Comanche055/ALARM_AND_ABORT.s -text
 Comanche055/ANGLFIND.s -text
 Comanche055/ASSEMBLY_AND_OPERATION_INFORMATION.s -text
 Comanche055/AUTOMATIC_MANEUVERS.s -text
+Comanche055/Apollo32.png -text
 Comanche055/CM_BODY_ATTITUDE.s -text
 Comanche055/CM_ENTRY_DIGITAL_AUTOPILOT.s -text
 Comanche055/CONIC_SUBROUTINES.s -text
@@ -109,6 +114,7 @@ Comanche055/Comanche055.binsource -text
 Comanche055/DISPLAY_INTERFACE_ROUTINES.s -text
 Comanche055/DOWN-TELEMETRY_PROGRAM.s -text
 Comanche055/DOWNLINK_LISTS.s -text
+Comanche055/Default.style -text
 Comanche055/ENTRY_LEXICON.s -text
 Comanche055/ERASABLE_ASSIGNMENTS.s -text
 Comanche055/EXECUTIVE.s -text
@@ -257,6 +263,7 @@ Luminary099/AOTMARK.s -text
 Luminary099/ASCENT_GUIDANCE.s -text
 Luminary099/ASSEMBLY_AND_OPERATION_INFORMATION.s -text
 Luminary099/ATTITUDE_MANEUVER_ROUTINE.s -text
+Luminary099/Apollo32.png -text
 Luminary099/BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.s -text
 Luminary099/CONIC_SUBROUTINES.s -text
 Luminary099/CONTRACT_AND_APPROVALS.s -text
@@ -266,6 +273,7 @@ Luminary099/DAP_INTERFACE_SUBROUTINES.s -text
 Luminary099/DISPLAY_INTERFACE_ROUTINES.s -text
 Luminary099/DOWNLINK_LISTS.s -text
 Luminary099/DOWN_TELEMETRY_PROGRAM.s -text
+Luminary099/Default.style -text
 Luminary099/ERASABLE_ASSIGNMENTS.s -text
 Luminary099/EXECUTIVE.s -text
 Luminary099/EXTENDED_VERBS.s -text
@@ -351,6 +359,7 @@ Luminary131/AOTMARK.s -text
 Luminary131/ASCENT_GUIDANCE.s -text
 Luminary131/ASSEMBLY_AND_OPERATION_INFORMATION.s -text
 Luminary131/ATTITUDE_MANEUVER_ROUTINE.s -text
+Luminary131/Apollo32.png -text
 Luminary131/BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.s -text
 Luminary131/CONIC_SUBROUTINES.s -text
 Luminary131/CONTROLLED_CONSTANTS.s -text
@@ -360,6 +369,7 @@ Luminary131/DAP_INTERFACE_SUBROUTINES.s -text
 Luminary131/DISPLAY_INTERFACE_ROUTINES.s -text
 Luminary131/DOWNLINK_LISTS.s -text
 Luminary131/DOWN_TELEMETRY_PROGRAM.s -text
+Luminary131/Default.style -text
 Luminary131/ERASABLE_ASSIGNMENTS.s -text
 Luminary131/EXECUTIVE.s -text
 Luminary131/EXTENDED_VERBS.s -text
