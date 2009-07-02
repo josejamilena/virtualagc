@@ -456,6 +456,7 @@ MessageBox/MessageBox.cpp -text
 MessageBox/MessageBox.h -text
 MessageBox/MessageBox.wxg -text
 /README.txt -text
+/SetupCodeblocks.sh -text
 /SimArtemis072 -text
 /SimArtemis072.bat -text
 /SimArtemis072.xeq -text
