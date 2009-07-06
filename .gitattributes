@@ -251,7 +251,11 @@ ControlPulseSim/DCA.txt -text
 ControlPulseSim/DCS.txt -text
 ControlPulseSim/DXCH.txt -text
 ControlPulseSim/Makefile -text
+FP6/Apollo32.png -text
+FP6/Default.style -text
 FP6/FP6.s -text
+FP8/Apollo32.png -text
+FP8/Default.style -text
 FP8/FP8.binsource -text
 FP8/FP8.s -text
 /LICENSE.txt -text
@@ -480,6 +484,8 @@ MessageBox/MessageBox.wxg -text
 /SimValidation -text
 /SimValidation.bat -text
 /TODO.txt -text
+Validation/Apollo32.png -text
+Validation/Default.style -text
 Validation/Errordsp.s -text
 Validation/Makefile -text
 Validation/Makefile.Win32 -text
