@@ -485,6 +485,12 @@ MessageBox/MessageBox.wxg -text
 /SimStop.bat -text
 /SimValidation -text
 /SimValidation.bat -text
+Solarium055/Apollo32.png -text
+Solarium055/Default.style -text
+Solarium055/MAIN.agc -text
+Solarium055/Main.annotation -text
+Solarium055/Makefile -text
+Solarium055/Template.agc -text
 /TODO.txt -text
 Validation/Apollo32.png -text
 Validation/Default.style -text
