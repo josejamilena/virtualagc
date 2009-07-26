@@ -10,6 +10,7 @@ Artemis072/INTERRUPT_LEAD_INS.agc -text
 Artemis072/MAIN.agc -text
 Artemis072/Main.annotation -text
 Artemis072/Makefile -text
+Artemis072/RESTART_TABLES.agc -text
 Artemis072/Template.agc -text
 /BuildBox.sh -text
 /COPYING -text
