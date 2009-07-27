@@ -1543,9 +1543,11 @@ yaYUL/ParseInterpretiveOperand.c -text
 yaYUL/ParseOCT.c -text
 yaYUL/ParseSETLOC.c -text
 yaYUL/ParseST.c -text
+yaYUL/ParseXCADR.c -text
 yaYUL/Pass.c -text
 yaYUL/PseudoToSegmented.c -text
 yaYUL/SymbolPass.c -text
 yaYUL/SymbolTable.c -text
+yaYUL/Utilities/SplitInterp.c -text
 yaYUL/yaYUL.c -text
 yaYUL/yaYUL.h -text
