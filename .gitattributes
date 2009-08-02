@@ -737,6 +737,7 @@ yaAGC/EmbeddedDemo.c -text
 yaAGC/EmbeddedLinker.script -text
 yaAGC/Makefile -text
 yaAGC/Makefile.Win32 -text
+yaAGC/NormalizeSourceName.c -text
 yaAGC/NullAPI.c -text
 yaAGC/SocketAPI.c -text
 yaAGC/WinAGC.c -text
