@@ -8,6 +8,7 @@ Artemis072/Artemis072.binsource -text
 Artemis072/CHECK_EQUALS_LIST.agc -text
 Artemis072/DOWNLINK_LISTS.agc -text
 Artemis072/Default.style -text
+Artemis072/EXTENDED_VERBS.agc -text
 Artemis072/FRESH_START_AND_RESTART.agc -text
 Artemis072/INTERRUPT_LEAD_INS.agc -text
 Artemis072/MAIN.agc -text
