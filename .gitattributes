@@ -16,6 +16,7 @@ Artemis072/INTERRUPT_LEAD_INS.agc -text
 Artemis072/MAIN.agc -text
 Artemis072/Main.annotation -text
 Artemis072/Makefile -text
+Artemis072/P30-P31.agc -text
 Artemis072/PINBALL_GAME_BUTTONS_AND_LIGHTS.agc -text
 Artemis072/PINBALL_NOUN_TABLES.agc -text
 Artemis072/RESTART_TABLES.agc -text
