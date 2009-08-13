@@ -30,6 +30,13 @@ Artemis072/TAGS_FOR_RELATIVE_SETLOC.agc -text
 Artemis072/Template.agc -text
 /BuildBox.sh -text
 /COPYING -text
+Colossus237/Apollo32.png -text
+Colossus237/Default.style -text
+Colossus237/MAIN.agc -text
+Colossus237/Main.annotation -text
+Colossus237/Makefile -text
+Colossus237/Makefile.Win32 -text
+Colossus237/Template.agc -text
 Colossus249/AGC_BLOCK_TWO_SELF-CHECK.agc -text
 Colossus249/ALARM_AND_ABORT.agc -text
 Colossus249/ANGLFIND.agc -text
