@@ -34,6 +34,7 @@ Artemis072/SXTMARK.agc -text
 Artemis072/T4RUPT_PROGRAM.agc -text
 Artemis072/TAGS_FOR_RELATIVE_SETLOC.agc -text
 Artemis072/Template.agc -text
+Artemis072/UPDATE_PROGRAM.agc -text
 /BuildBox.sh -text
 /COPYING -text
 Colossus237/Apollo32.png -text
