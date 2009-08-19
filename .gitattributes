@@ -4,6 +4,7 @@
 Artemis072/ABSOLUTE_LOCATIONS_FOR_UPDATES.agc -text
 Artemis072/AGC_BLOCK_TWO_SELF-CHECK.agc -text
 Artemis072/ALARM_AND_ABORT.agc -text
+Artemis072/ANGLFIND.agc -text
 Artemis072/ASSEMBLY_AND_OPERATION_INFORMATION.agc -text
 Artemis072/Apollo32.png -text
 Artemis072/Artemis072.binsource -text
@@ -15,9 +16,13 @@ Artemis072/Default.style -text
 Artemis072/ENTRY_LEXICON.agc -text
 Artemis072/EXTENDED_VERBS.agc -text
 Artemis072/FRESH_START_AND_RESTART.agc -text
+Artemis072/GIMBAL_LOCK_AVOIDANCE.agc -text
+Artemis072/GROUND_TRACKING_DETERMINATION_PROGRAM.agc -text
+Artemis072/IMU_CALIBRATION_AND_ALIGNMENT.agc -text
 Artemis072/IMU_COMPENSATION_PACKAGE.agc -text
 Artemis072/IMU_MODE_SWITCHING_ROUTINES.agc -text
 Artemis072/INTERRUPT_LEAD_INS.agc -text
+Artemis072/KALCMANU_STEERING.agc -text
 Artemis072/KEYRUPT_UPRUPT.agc -text
 Artemis072/LUNAR_AND_SOLAR_EPHEMERIDES_SUBROUTINES.agc -text
 Artemis072/MAIN.agc -text
@@ -25,12 +30,14 @@ Artemis072/Main.annotation -text
 Artemis072/Makefile -text
 Artemis072/P30-P31.agc -text
 Artemis072/P32-P33_P72-P73.agc -text
+Artemis072/P34-35_P74-75.agc -text
 Artemis072/P40-P47.agc -text
 Artemis072/P51-P53.agc -text
 Artemis072/P61-P67.agc -text
 Artemis072/PHASE_TABLE_MAINTENANCE.agc -text
 Artemis072/PINBALL_GAME_BUTTONS_AND_LIGHTS.agc -text
 Artemis072/PINBALL_NOUN_TABLES.agc -text
+Artemis072/R60_62.agc -text
 Artemis072/REENTRY_CONTROL.agc -text
 Artemis072/RESTARTS_ROUTINE.agc -text
 Artemis072/RESTART_TABLES.agc -text
@@ -40,6 +47,7 @@ Artemis072/SERVICE_ROUTINES.agc -text
 Artemis072/STAR_TABLES.agc -text
 Artemis072/SUBROUTINE_CALLS.agc -text
 Artemis072/SXTMARK.agc -text
+Artemis072/SYSTEM_TEST_STANDARD_LEAD_INS.agc -text
 Artemis072/T4RUPT_PROGRAM.agc -text
 Artemis072/TAGS_FOR_RELATIVE_SETLOC.agc -text
 Artemis072/Template.agc -text
