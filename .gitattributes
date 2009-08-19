@@ -37,6 +37,7 @@ Artemis072/RESTART_TABLES.agc -text
 Artemis072/RTB_OP_CODES.agc -text
 Artemis072/SERVICER207.agc -text
 Artemis072/SERVICE_ROUTINES.agc -text
+Artemis072/STAR_TABLES.agc -text
 Artemis072/SUBROUTINE_CALLS.agc -text
 Artemis072/SXTMARK.agc -text
 Artemis072/T4RUPT_PROGRAM.agc -text
