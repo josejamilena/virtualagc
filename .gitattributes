@@ -50,6 +50,7 @@ Artemis072/SXTMARK.agc -text
 Artemis072/SYSTEM_TEST_STANDARD_LEAD_INS.agc -text
 Artemis072/T4RUPT_PROGRAM.agc -text
 Artemis072/TAGS_FOR_RELATIVE_SETLOC.agc -text
+Artemis072/TIME_OF_FREE_FALL.agc -text
 Artemis072/Template.agc -text
 Artemis072/UPDATE_PROGRAM.agc -text
 /BuildBox.sh -text
