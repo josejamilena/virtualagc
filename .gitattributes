@@ -15,6 +15,7 @@ Artemis072/DOWNLINK_LISTS.agc -text
 Artemis072/Default.style -text
 Artemis072/ENTRY_LEXICON.agc -text
 Artemis072/EXTENDED_VERBS.agc -text
+Artemis072/FIXED_FIXED_CONSTANT_POOL.agc -text
 Artemis072/FRESH_START_AND_RESTART.agc -text
 Artemis072/GIMBAL_LOCK_AVOIDANCE.agc -text
 Artemis072/GROUND_TRACKING_DETERMINATION_PROGRAM-P21.agc -text
