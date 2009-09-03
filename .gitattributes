@@ -43,6 +43,7 @@ Artemis072/ORBITAL_INTEGRATION.agc -text
 Artemis072/P30-P31.agc -text
 Artemis072/P32-P33_P72-P73.agc -text
 Artemis072/P34-P35_P74-P75.agc -text
+Artemis072/P37_P70.agc -text
 Artemis072/P40-P47.agc -text
 Artemis072/P51-P53.agc -text
 Artemis072/P61-P67.agc -text
@@ -57,6 +58,7 @@ Artemis072/REENTRY_CONTROL.agc -text
 Artemis072/RESTARTS_ROUTINE.agc -text
 Artemis072/RESTART_TABLES.agc -text
 Artemis072/RTB_OP_CODES.agc -text
+Artemis072/S-BAND_ANTENNA_FOR_CM.agc -text
 Artemis072/SERVICER207.agc -text
 Artemis072/SERVICE_ROUTINES.agc -text
 Artemis072/SINGLE_PRECISION_SUBROUTINES.agc -text
