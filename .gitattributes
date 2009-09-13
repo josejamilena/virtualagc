@@ -3,6 +3,7 @@
 /Apollo32.png -text
 Artemis072/Apollo32.png -text
 Artemis072/Artemis072.binsource -text
+Artemis072/CM_BODY_ATTITUDE.agc -text
 Artemis072/CONIC_SUBROUTINES.agc -text
 Artemis072/Default.style -text
 Artemis072/INTEGRATION_INITIALIZATION.agc -text
@@ -11,6 +12,12 @@ Artemis072/MEASUREMENT_INCORPORATION.agc -text
 Artemis072/Main.annotation -text
 Artemis072/Makefile -text
 Artemis072/PLANETARY_INERTIAL_ORIENTATION.agc -text
+Artemis072/TVCDAPS.agc -text
+Artemis072/TVCEXECUTIVE.agc -text
+Artemis072/TVCINITIALIZE.agc -text
+Artemis072/TVCMASSPROP.agc -text
+Artemis072/TVCRESTARTS.agc -text
+Artemis072/TVCROLLDAP.agc -text
 /BuildBox.sh -text
 /COPYING -text
 /CodeConversionManagement.ods -text
