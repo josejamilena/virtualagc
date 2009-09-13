@@ -52,9 +52,11 @@ jWiz/jWiz
 yaACA2/yaACA2
 yaACA3/yaACA3
 yaAGC/*.a
+yaAGC/*.exe
 yaAGC/*.o
 yaAGC/yaAGC
 yaAGS/*.a
+yaAGS/*.exe
 yaAGS/*.o
 yaAGS/yaAGS
 yaDEDA/Makefile
@@ -79,9 +81,11 @@ yaDSKY/Makefile
 yaDSKY/Makefile.in
 yaDSKY/aclocal.m4
 yaDSKY/autom4te.cache
+yaDSKY/config.guess.lnk
 yaDSKY/config.h
 yaDSKY/config.log
 yaDSKY/config.status
+yaDSKY/config.sub.lnk
 yaDSKY/configure
 yaDSKY/mkinstalldirs
 yaDSKY/po/Makefile
@@ -96,11 +100,13 @@ yaDSKY/src/yadsky
 yaDSKY2/yaDSKY2
 yaLEMAP/*.bin
 yaLEMAP/*.binsource
+yaLEMAP/*.exe
 yaLEMAP/*.lst
 yaLEMAP/binLEMAP
 yaLEMAP/yaLEMAP
 yaTelemetry/yaTelemetry
 yaUniverse/*.o
 yaUniverse/yaUniverse
+yaYUL/*.exe
 yaYUL/*.o
 yaYUL/yaYUL
