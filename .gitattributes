@@ -156,6 +156,7 @@ MessageBox/MessageBox.wxg -text
 /SimValidation -text
 /SimValidation.bat -text
 Solarium055/501_MISSION_CONTROL_PROGRAM.agc -text
+Solarium055/AGC_SELF-CHECK.agc -text
 Solarium055/ALARM_AND_DISPLAY_PROCEDURES.agc -text
 Solarium055/AVERAGE_G_INTEGRATOR.agc -text
 Solarium055/Apollo32.png -text
