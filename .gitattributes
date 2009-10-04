@@ -163,6 +163,7 @@ Solarium055/AVERAGE_G_INTEGRATOR.agc -text
 Solarium055/Apollo32.png -text
 Solarium055/Default.style -text
 Solarium055/INFLIGHT_ALIGNMENT_PROGRAM.agc -text
+Solarium055/INFLIGHT_ALIGNMENT_SUBROUTINES.agc -text
 Solarium055/MAIN.agc -text
 Solarium055/Main.annotation -text
 Solarium055/Makefile -text
@@ -171,6 +172,7 @@ Solarium055/ORBITAL_INTEGRATION_PROGRAM.agc -text
 Solarium055/RESTART_CONTROL.agc -text
 Solarium055/SUM-CHECK_END_OF_RECORD_MARKS.agc -text
 Solarium055/T4RUPT_OUTPUT_CONTROL_PROGRAMS.agc -text
+Solarium055/TIME_OF_FREE-FALL_CALCULATIONS.agc -text
 Solarium055/Template.agc -text
 Solarium055/VERIFICATION_ASSISTANCE_PROGRAMS.agc -text
 /TODO.txt -text
