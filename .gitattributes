@@ -167,6 +167,7 @@ Solarium055/IMU_PERFORMANCE_TESTS_2.agc -text
 Solarium055/INFLIGHT_ALIGNMENT_PROGRAM.agc -text
 Solarium055/INFLIGHT_ALIGNMENT_SUBROUTINES.agc -text
 Solarium055/MAIN.agc -text
+Solarium055/MODE_SWITCHING_AND_MARK_ROUTINES.agc -text
 Solarium055/Main.annotation -text
 Solarium055/Makefile -text
 Solarium055/ORBITAL_INTEGRATION_FOR_501.agc -text
