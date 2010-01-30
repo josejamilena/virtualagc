@@ -53,9 +53,9 @@ Contributed/DebugScripts/CodeBlocks/bin/agc-yul -text
 Contributed/DebugScripts/CodeBlocks/bin/agc-yul.bat -text
 Contributed/DebugScripts/CodeBlocks/bin/lgc-gdb.bat -text
 Contributed/DebugScripts/CodeBlocks/doc/CodeBlocksAGC.odt -text
-Contributed/GamePack/agcgames_f.agc -text
-Contributed/GamePack/memgame_e.agc -text
-Contributed/GamePack/tic_e.agc -text
+Contributed/GamePack/agcgames_f.asm -text
+Contributed/GamePack/memgame_e.asm -text
+Contributed/GamePack/tic_e.asm -text
 Contributed/LM_Simulator/ChangeLog.txt -text
 Contributed/LM_Simulator/Documentation/ChangeLog.txt -text
 Contributed/LM_Simulator/Documentation/data/dsky.jpg -text
