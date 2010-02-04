@@ -474,6 +474,8 @@ yaAGS/mainAGS.c -text
 yaAGS/nbfgets.c -text
 yaAGS/symbol_table.c -text
 yaAGS/yaAEA.h -text
+yaASM/Makefile -text
+yaASM/yaASM.c -text
 yaDEDA/AUTHORS -text
 yaDEDA/COPYING -text
 yaDEDA/ChangeLog -text
