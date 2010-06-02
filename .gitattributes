@@ -38,7 +38,9 @@ Colossus237/Colossus237.binsource2.txt -text
 Colossus237/DOWN-TELEMETRY_PROGRAM.agc -text
 Colossus237/Default.style -text
 Colossus237/ERASABLE_ASSIGNMENTS.agc -text
+Colossus237/GIMBAL_LOCK_AVOIDANCE.agc -text
 Colossus237/INTER-BANK_COMMUNICATION.agc -text
+Colossus237/KALCMANU_STEERING.agc -text
 Colossus237/Main.annotation -text
 Colossus237/Makefile -text
 Colossus237/Makefile.Win32 -text
