@@ -46,6 +46,7 @@ Colossus237/Makefile -text
 Colossus237/Makefile.Win32 -text
 Colossus237/ORBITAL_INTEGRATION.agc -text
 Colossus237/P61-P67.agc -text
+Colossus237/STABLE_ORBIT.agc -text
 Colossus237/TAGS_FOR_RELATIVE_SETLOC.agc -text
 Colossus237/WAITLIST.agc -text
 Colossus249/Apollo32.png -text
