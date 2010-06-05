@@ -36,6 +36,7 @@ Colossus237/CM_BODY_ATTITUDE.agc -text
 Colossus237/CSM_GEOMETRY.agc -text
 Colossus237/Colossus237.binsource2.txt -text
 Colossus237/DOWN-TELEMETRY_PROGRAM.agc -text
+Colossus237/DOWNLINK_LISTS.agc -text
 Colossus237/Default.style -text
 Colossus237/ERASABLE_ASSIGNMENTS.agc -text
 Colossus237/GIMBAL_LOCK_AVOIDANCE.agc -text
@@ -46,6 +47,7 @@ Colossus237/Makefile -text
 Colossus237/Makefile.Win32 -text
 Colossus237/ORBITAL_INTEGRATION.agc -text
 Colossus237/P61-P67.agc -text
+Colossus237/SINGLE_PRECISION_SUBROUTINES.agc -text
 Colossus237/STABLE_ORBIT.agc -text
 Colossus237/TAGS_FOR_RELATIVE_SETLOC.agc -text
 Colossus237/WAITLIST.agc -text
