@@ -155,6 +155,7 @@ GeminiCatchUpandRendezvousProgram/KEYS.s -text
 GeminiCatchUpandRendezvousProgram/LDB6.s -text
 GeminiCatchUpandRendezvousProgram/MAIN7.f -text
 GeminiCatchUpandRendezvousProgram/MEDP3.s -text
+GeminiCatchUpandRendezvousProgram/Makefile -text
 GeminiCatchUpandRendezvousProgram/QUANT.f -text
 GeminiCatchUpandRendezvousProgram/REENT.f -text
 GeminiCatchUpandRendezvousProgram/RNDZ.f -text
