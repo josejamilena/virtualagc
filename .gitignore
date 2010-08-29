@@ -19,6 +19,7 @@ Comanche055/*.bin
 Comanche055/*.binsource
 Comanche055/*.lst
 Comanche055/*.symtab
+Comanche055/corediff.txt
 ControlPulseSim/ControlPulseSim
 FP6/*.aea.html
 FP6/*.bin
