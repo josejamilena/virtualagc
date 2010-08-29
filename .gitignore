@@ -112,4 +112,7 @@ yaUniverse/*.o
 yaUniverse/yaUniverse
 yaYUL/*.exe
 yaYUL/*.o
+yaYUL/.cproject
+yaYUL/.project
+yaYUL/.settings
 yaYUL/yaYUL
