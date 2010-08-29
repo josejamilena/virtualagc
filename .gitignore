@@ -3,7 +3,9 @@ Artemis072/*.agc.symtab
 Artemis072/*.bin
 Artemis072/*.lst
 Artemis072/.project
+Artemis072/Artemis072.symtab
 Artemis072/MAIN.symtab
+Artemis072/corediff.txt
 Colossus237/*.agc.html
 Colossus237/*.bin
 Colossus237/*.binsource
