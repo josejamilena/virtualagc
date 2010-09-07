@@ -138,7 +138,7 @@ FP8/FP8.binsource -text
 GeminiCatchUpandRendezvousProgram/AGE.f -text
 GeminiCatchUpandRendezvousProgram/ALIGNP.f -text
 GeminiCatchUpandRendezvousProgram/ASCENT.f -text
-GeminiCatchUpandRendezvousProgram/ASM.f -text
+GeminiCatchUpandRendezvousProgram/ASM.c -text
 GeminiCatchUpandRendezvousProgram/BENCH7.f -text
 GeminiCatchUpandRendezvousProgram/DSBENB.s -text
 GeminiCatchUpandRendezvousProgram/ERRANG.f -text
@@ -156,15 +156,17 @@ GeminiCatchUpandRendezvousProgram/KEYCN.s -text
 GeminiCatchUpandRendezvousProgram/KEYS.s -text
 GeminiCatchUpandRendezvousProgram/LDB6.s -text
 GeminiCatchUpandRendezvousProgram/MAIN7.f -text
+GeminiCatchUpandRendezvousProgram/MEDP3.c -text
 GeminiCatchUpandRendezvousProgram/MEDP3.s -text
 GeminiCatchUpandRendezvousProgram/Makefile -text
 GeminiCatchUpandRendezvousProgram/QUANT.f -text
 GeminiCatchUpandRendezvousProgram/REENT.f -text
 GeminiCatchUpandRendezvousProgram/RNDZ.f -text
 GeminiCatchUpandRendezvousProgram/SELFLD.s -text
-GeminiCatchUpandRendezvousProgram/SENSE.f -text
+GeminiCatchUpandRendezvousProgram/SENSE.c -text
 GeminiCatchUpandRendezvousProgram/SKIPN.s -text
 GeminiCatchUpandRendezvousProgram/STATE.f -text
+GeminiCatchUpandRendezvousProgram/TCTRL.c -text
 GeminiCatchUpandRendezvousProgram/TCTRL.s -text
 GeminiCatchUpandRendezvousProgram/TDPRED.f -text
 GeminiCatchUpandRendezvousProgram/WAIT5.f -text
