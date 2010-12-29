@@ -18,6 +18,7 @@ Colossus249/*.bin
 Colossus249/*.binsource
 Colossus249/*.lst
 Colossus249/*.symtab
+Colossus249/corediff.txt
 Comanche055/*.agc.html
 Comanche055/*.bin
 Comanche055/*.binsource
@@ -46,6 +47,7 @@ Luminary131/*.symtab
 Luminary131/CheckDec
 Luminary131/Oct2Bin
 Luminary131/bdiffhead
+Luminary131/corediff.txt
 Luminary131/webb2burkey-rope
 /Makefile.yaAGC
 Validation/*.html
