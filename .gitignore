@@ -11,6 +11,7 @@ Artemis072/corediff.txt
 Colossus237/*.agc.html
 Colossus237/*.bin
 Colossus237/*.binsource
+Colossus237/*.log
 Colossus237/*.lst
 Colossus237/*.symtab
 Colossus237/Binsource2Bin
