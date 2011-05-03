@@ -53,6 +53,10 @@ Luminary131/bdiffhead
 Luminary131/corediff.txt
 Luminary131/webb2burkey-rope
 /Makefile.yaAGC
+Tools/CheckDec
+Tools/Oct2Bin
+Tools/bdiffhead
+Tools/webb2burkey-rope
 Validation/*.html
 Validation/Validation.bin
 Validation/Validation.lst
@@ -61,6 +65,8 @@ Validation/Validation.txt
 VirtualAGC/VirtualAGC
 VirtualAGC/temp
 jWiz/jWiz
+yaACA/*.o
+yaACA/yaACA
 yaACA2/yaACA2
 yaACA3/yaACA3
 yaAGC/*.a
