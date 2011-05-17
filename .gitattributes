@@ -1284,7 +1284,7 @@ yaYUL/ParseBBCON.c -text
 yaYUL/ParseBLOCK.c -text
 yaYUL/ParseCADR.c -text
 yaYUL/ParseCHECKequals.c -text
-yaYUL/ParseEBANK.c -text
+yaYUL/ParseEBANKEquals.c -text
 yaYUL/ParseECADR.c -text
 yaYUL/ParseEQUALS.c -text
 yaYUL/ParseERASE.c -text
