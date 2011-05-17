@@ -1295,6 +1295,7 @@ yaYUL/ParseGeneral.c -text
 yaYUL/ParseINDEX.c -text
 yaYUL/ParseInterpretiveOperand.c -text
 yaYUL/ParseOCT.c -text
+yaYUL/ParseSBANKEquals.c -text
 yaYUL/ParseSETLOC.c -text
 yaYUL/ParseST.c -text
 yaYUL/ParseXCADR.c -text
