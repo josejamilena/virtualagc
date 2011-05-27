@@ -74,7 +74,7 @@ Validation/Validation.symtab
 Validation/Validation.txt
 VirtualAGC/VirtualAGC
 VirtualAGC/temp
-/corediff.txt
+/corediff*.txt
 jWiz/jWiz
 yaACA/*.o
 yaACA/yaACA
