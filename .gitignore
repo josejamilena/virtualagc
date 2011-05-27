@@ -1,5 +1,6 @@
 /.project
 /.pydevproject
+/.settings
 Artemis072/*.agc.html
 Artemis072/*.agc.symtab
 Artemis072/*.bin
@@ -35,10 +36,12 @@ Comanche055/corediff.txt
 ControlPulseSim/ControlPulseSim
 FP6/*.aea.html
 FP6/*.bin
+FP6/*.binsource
 FP6/*.lst
 FP6/*.symtab
 FP8/*.aea.html
 FP8/*.bin
+FP8/*.binsource
 FP8/*.lst
 FP8/*.symtab
 Luminary099/*.agc.html
