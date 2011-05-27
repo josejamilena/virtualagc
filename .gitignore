@@ -9,9 +9,11 @@ Artemis072/*.lst
 Artemis072/.*.swp
 Artemis072/.project
 Artemis072/Artemis072.symtab
+Artemis072/MAIN.agc.anno.txt
 Artemis072/MAIN.symtab
 Artemis072/corediff.txt
 Colossus237/*.agc.html
+Colossus237/*.anno.txt
 Colossus237/*.bin
 Colossus237/*.binsource
 Colossus237/*.log
@@ -20,6 +22,7 @@ Colossus237/*.symtab
 Colossus237/Binsource2Bin
 Colossus237/corediff.txt
 Colossus249/*.agc.html
+Colossus249/*.anno.txt
 Colossus249/*.bin
 Colossus249/*.binsource
 Colossus249/*.log
@@ -27,6 +30,7 @@ Colossus249/*.lst
 Colossus249/*.symtab
 Colossus249/corediff.txt
 Comanche055/*.agc.html
+Comanche055/*.anno.txt
 Comanche055/*.bin
 Comanche055/*.binsource
 Comanche055/*.log
@@ -45,6 +49,7 @@ FP8/*.binsource
 FP8/*.lst
 FP8/*.symtab
 Luminary099/*.agc.html
+Luminary099/*.anno.txt
 Luminary099/*.bin
 Luminary099/*.binsource
 Luminary099/*.log
@@ -52,6 +57,7 @@ Luminary099/*.lst
 Luminary099/*.symtab
 Luminary099/corediff.txt
 Luminary131/*.agc.html
+Luminary131/*.anno.txt
 Luminary131/*.bin
 Luminary131/*.binsource
 Luminary131/*.log
