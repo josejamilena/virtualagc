@@ -528,6 +528,9 @@ yaAGS/nbfgets.c -text
 yaAGS/symbol_table.c -text
 yaAGS/yaAEA.h -text
 yaASM/Makefile -text
+yaASM/Sample-AldenMinnick.obc -text
+yaASM/Sample-CharlieLeist.obc -text
+yaASM/Test.obc -text
 yaASM/yaASM.c -text
 yaDEDA/AUTHORS -text
 yaDEDA/COPYING -text
