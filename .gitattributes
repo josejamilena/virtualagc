@@ -1220,6 +1220,8 @@ yaLEMAP/SampleCodeAGS.aea -text
 yaLEMAP/SampleCodeAGS.binsource -text
 yaLEMAP/binLEMAP.c -text
 yaLEMAP/yaLEMAP.c -text
+yaOBC/Makefile -text
+yaOBC/yaOBC.c -text
 yaTelemetry/ApolloPatch2.png -text
 yaTelemetry/Makefile -text
 yaTelemetry/TelemetryBottom.jpg -text
