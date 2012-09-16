@@ -32,7 +32,6 @@ Colossus237/ANGLFIND.agc -text
 Colossus237/ASSEMBLY_AND_OPERATION_INFORMATION.agc -text
 Colossus237/AUTOMATIC_MANEUVERS.agc -text
 Colossus237/Apollo32.png -text
-Colossus237/Binsource2Bin.c -text
 Colossus237/CM_BODY_ATTITUDE.agc -text
 Colossus237/CSM_GEOMETRY.agc -text
 Colossus237/Colossus237.binsource2.txt -text
@@ -239,10 +238,11 @@ Solarium055/TIME_OF_FREE-FALL_CALCULATIONS.agc -text
 Solarium055/Template.agc -text
 Solarium055/VERIFICATION_ASSISTANCE_PROGRAMS.agc -text
 /TODO.txt -text
-Tools/CheckDec.c -text
 Tools/Makefile -text
-Tools/Oct2Bin.c -text
 Tools/bdiffhead.c -text
+Tools/binsource2bin.c -text
+Tools/checkdec.c -text
+Tools/oct2bin.c -text
 Tools/webb2burkey-rope.c -text
 Validation/Apollo32.png -text
 Validation/Default.style -text

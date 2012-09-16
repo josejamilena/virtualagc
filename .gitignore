@@ -69,9 +69,10 @@ Luminary131/bdiffhead
 Luminary131/corediff.txt
 Luminary131/webb2burkey-rope
 /Makefile.yaAGC
-Tools/CheckDec
-Tools/Oct2Bin
 Tools/bdiffhead
+Tools/binsource2bin
+Tools/checkdec
+Tools/oct2bin
 Tools/webb2burkey-rope
 Validation/*.html
 Validation/Validation.bin
