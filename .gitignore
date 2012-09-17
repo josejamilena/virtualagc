@@ -70,8 +70,8 @@ Luminary131/corediff.txt
 Luminary131/webb2burkey-rope
 /Makefile.yaAGC
 Tools/bdiffhead
-Tools/binsource2bin
 Tools/checkdec
+Tools/listing2binsource
 Tools/oct2bin
 Tools/webb2burkey-rope
 Validation/*.html
