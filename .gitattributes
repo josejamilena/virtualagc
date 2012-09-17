@@ -240,8 +240,8 @@ Solarium055/VERIFICATION_ASSISTANCE_PROGRAMS.agc -text
 /TODO.txt -text
 Tools/Makefile -text
 Tools/bdiffhead.c -text
-Tools/binsource2bin.c -text
 Tools/checkdec.c -text
+Tools/listing2binsource.c -text
 Tools/oct2bin.c -text
 Tools/webb2burkey-rope.c -text
 Validation/Apollo32.png -text
