@@ -20,6 +20,7 @@ Colossus237/*.log
 Colossus237/*.lst
 Colossus237/*.symtab
 Colossus237/Binsource2Bin
+Colossus237/corediff.pdf
 Colossus237/corediff.txt
 Colossus249/*.agc.html
 Colossus249/*.anno.txt
