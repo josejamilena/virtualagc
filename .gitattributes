@@ -54,7 +54,6 @@ Colossus249/Apollo32.png -text
 Colossus249/Colossus249.binsource -text
 Colossus249/Default.style -text
 Colossus249/Makefile -text
-Colossus249/Makefile.Win32 -text
 Comanche055/Apollo32.png -text
 Comanche055/Comanche055.binsource -text
 Comanche055/Default.style -text
@@ -178,9 +177,7 @@ Luminary131/Apollo32.png -text
 Luminary131/Default.style -text
 Luminary131/Luminary131.binsource -text
 Luminary131/Makefile -text
-Luminary131/Makefile.Win32 -text
 /Makefile -text
-/Makefile.Win32 -text
 /Makefile.yaAGC -text
 MessageBox/Makefile -text
 MessageBox/MessageBox.cpp -text
@@ -249,7 +246,6 @@ Validation/Apollo32.png -text
 Validation/Default.style -text
 Validation/Errordsp.agc -text
 Validation/Makefile -text
-Validation/Makefile.Win32 -text
 Validation/SmallyBZFCHK.agc -text
 Validation/SmallyBZMFCHK.agc -text
 Validation/SmallyCCSCHK.agc -text
@@ -630,7 +626,6 @@ yaAGC/DecodeDigitalDownlink.c -text
 yaAGC/EmbeddedDemo.c -text
 yaAGC/EmbeddedLinker.script -text
 yaAGC/Makefile -text
-yaAGC/Makefile.Win32 -text
 yaAGC/NormalizeSourceName.c -text
 yaAGC/NullAPI.c -text
 yaAGC/SocketAPI.c -text
@@ -665,7 +660,6 @@ yaAGC/yaAGC.h -text
 yaAGS/Backtrace.c -text
 yaAGS/DebuggerHookAGS.c -text
 yaAGS/Makefile -text
-yaAGS/Makefile.Win32 -text
 yaAGS/ParseSocket -text
 yaAGS/ParseSocket.c -text
 yaAGS/SocketAPI_AGS.c -text
@@ -833,7 +827,6 @@ yaDEDA/po/ChangeLog -text
 yaDEDA/po/POTFILES -text
 yaDEDA/po/POTFILES.in -text
 yaDEDA/src/Backtrace.c -text
-yaDEDA/src/Makefile.Win32 -text
 yaDEDA/src/Makefile.all-archs -text
 yaDEDA/src/Makefile.am -text
 yaDEDA/src/callbacks.c -text
@@ -1148,7 +1141,6 @@ yaDSKY/src/CM.ini -text
 yaDSKY/src/CM0.ini -text
 yaDSKY/src/LM.ini -text
 yaDSKY/src/LM1.ini -text
-yaDSKY/src/Makefile.Win32 -text
 yaDSKY/src/Makefile.all-archs -text
 yaDSKY/src/Makefile.am -text
 yaDSKY/src/callbacks.c -text
@@ -1542,7 +1534,6 @@ yaUniverse/yaUniverse.h -text
 yaYUL/GetOctOrDec.c -text
 yaYUL/IncPc.c -text
 yaYUL/Makefile -text
-yaYUL/Makefile.Win32 -text
 yaYUL/Parse2CADR.c -text
 yaYUL/Parse2DEC.c -text
 yaYUL/Parse2FCADR.c -text
