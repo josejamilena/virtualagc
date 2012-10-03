@@ -74,6 +74,7 @@ Tools/bdiffhead
 Tools/checkdec
 Tools/listing2binsource
 Tools/oct2bin
+Tools/split-interp
 Tools/webb2burkey-rope
 Validation/*.html
 Validation/Validation.bin
