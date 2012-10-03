@@ -216,6 +216,7 @@ Tools/bdiffhead.c -text
 Tools/checkdec.c -text
 Tools/listing2binsource.c -text
 Tools/oct2bin.c -text
+Tools/split-interp.c -text
 Tools/utils.c -text
 Tools/utils.h -text
 Tools/webb2burkey-rope.c -text
@@ -1560,6 +1561,5 @@ yaYUL/Pass.c -text
 yaYUL/PseudoToSegmented.c -text
 yaYUL/SymbolPass.c -text
 yaYUL/SymbolTable.c -text
-yaYUL/Utilities/SplitInterp.c -text
 yaYUL/yaYUL.c -text
 yaYUL/yaYUL.h -text
