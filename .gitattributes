@@ -1561,5 +1561,6 @@ yaYUL/Pass.c -text
 yaYUL/PseudoToSegmented.c -text
 yaYUL/SymbolPass.c -text
 yaYUL/SymbolTable.c -text
+yaYUL/Utilities.c eol=lf
 yaYUL/yaYUL.c -text
 yaYUL/yaYUL.h -text
