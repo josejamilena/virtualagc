@@ -25,7 +25,6 @@ Artemis072/TVCRESTARTS.agc -text
 Artemis072/TVCROLLDAP.agc -text
 /BuildBox.sh -text
 /COPYING -text
-/CodeConversionManagement.ods -text
 Colossus237/AGC_BLOCK_TWO_SELF-CHECK.agc -text
 Colossus237/ALARM_AND_ABORT.agc -text
 Colossus237/ANGLFIND.agc -text
@@ -183,7 +182,6 @@ MessageBox/Makefile -text
 MessageBox/MessageBox.cpp -text
 MessageBox/MessageBox.h -text
 MessageBox/MessageBox.wxg -text
-/SetupCodeblocks.sh -text
 Solarium055/501_MISSION_CONTROL_PROGRAM.agc -text
 Solarium055/AGC_SELF-CHECK.agc -text
 Solarium055/ALARM_AND_DISPLAY_PROCEDURES.agc -text
@@ -319,6 +317,7 @@ VirtualAGC/lst2html.sh -text
 VirtualAGC/template.app/Contents/Info.plist -text
 VirtualAGC/template.app/Contents/Resources/VirtualAGC.icns -text
 /configure -text
+doc/CodeConversionManagement.ods -text
 doc/images/CodeBlocks.png -text
 doc/images/DSKY.png -text
 enet/ChangeLog -text
@@ -476,6 +475,7 @@ jWiz/jWiz.h -text
 jWiz/jWiz.wxg -text
 scenarios/CmQuickStart.txt -text
 scenarios/LmQuickStart.txt -text
+scripts/SetupCodeblocks.sh -text
 scripts/SimArtemis072 -text
 scripts/SimArtemis072.bat -text
 scripts/SimArtemis072.xeq -text
